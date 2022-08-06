@@ -1,0 +1,24 @@
+{
+  "name": "bar-chart-lib",
+  "version": "1.0.0",
+  "description": "A react component library",
+  "main": "BarChart.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dewaley/bar-chart-lib.git"
+  },
+  "author": "Adewale Ademilua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dewaley/bar-chart-lib/issues"
+  },
+  "homepage": "https://github.com/Dewaley/bar-chart-lib#readme",
+  "peerDependencies": {
+    "chart.js": "^3.9.1",
+    "react": "^18.2.0",
+    "react-chartjs-2": "^4.3.1"
+  }
+}
